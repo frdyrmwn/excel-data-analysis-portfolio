@@ -33,9 +33,6 @@ KEY FINDINGS AND BUSINESS INSIGHTS
 4. Departmental Attrition Hotspots: Research & Development and Sales departments record the most dominant turnover volumes.
 
 STRATEGIC BUSINESS OUTPUT AND RECOMMENDATIONS
-
-Targeted High-Risk Intervention: Implement personal approaches, counseling, and engagement initiatives for employees flagged under the High Risk category.
-
-Overtime Policy Evaluation: Review and optimize overtime policies and employee engagement programs to curb burnout among short-tenure staff.
-
-Salary Structure Benchmarking: Regularly adjust and benchmark the salary structure across departments and genders to ensure equitable pay equity and retain top talent.
+1. Targeted High Risk Intervention: Implement personal approaches, counseling, and engagement initiatives for employees flagged under the High Risk category.
+2. Overtime Policy Evaluation: Review and optimize overtime policies and employee engagement programs to curb burnout among short tenure staff.
+3. Salary Structure Benchmarking: Regularly adjust and benchmark the salary structure across departments and genders to ensure equitable pay equity and retain top talent.
