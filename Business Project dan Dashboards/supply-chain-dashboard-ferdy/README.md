@@ -27,9 +27,6 @@ KEY FINDINGS AND BUSINESS INSIGHTS
 3. Supplier Reliability Correlation: Delayed order statuses correlate with variations in supplier reliability scores, where underperforming suppliers contribute significantly to upstream supply chain bottlenecks.
 
 STRATEGIC BUSINESS OUTPUT AND RECOMMENDATIONS
-
-Route Optimization & Weather Mitigation: Implement an early warning system integrated with real-time weather data to dynamically reroute shipments when extreme weather conditions are detected.
-
-Supplier Management & SLA Audits: Conduct regular performance audits and contract evaluations for low-reliability suppliers to mitigate upstream bottlenecks.
-
-Dynamic Order Scheduling: Prioritize warehouse processing schedules for high-risk orders to avoid delivery penalties and maintain service level agreements.
+1. Route Optimization & Weather Mitigation: Implement an early warning system integrated with realtime weather data to dynamically reroute shipments when extreme weather conditions are detected.
+2. Supplier Management & SLA Audits: Conduct regular performance audits and contract evaluations for low reliability suppliers to mitigate upstream bottlenecks.
+3. Dynamic Order Scheduling: Prioritize warehouse processing schedules for high-risk orders to avoid delivery penalties and maintain service level agreements.
