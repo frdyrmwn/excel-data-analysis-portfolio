@@ -1,6 +1,6 @@
 HRD ANALYTICS EMPLOYEE ATTRITION RISK & RETENTION STRATEGY DIAGNOSTIC ANALYSIS
 
-Overview: This project delivers an operational HR data analysis solution to evaluate employee turnover risks, retention bottlenecks, and attrition factors. By processing raw employee datasets, this project builds a structured Excel workbook featuring automated data preparation, cross-sheet data enrichment via VLOOKUP, multi-dimensional pivot table aggregation, and an interactive executive HR dashboard to analyze education backgrounds, compensation tiers, project benched statuses, and experience levels.
+Overview: This project delivers an operational HR data analysis solution to evaluate employee turnover risks, retention bottlenecks, and attrition factors. By processing raw employee datasets, this project builds a structured Excel workbook featuring automated data preparation, cross sheet data enrichment via VLOOKUP, multi-dimensional pivot table aggregation, and an interactive executive HR dashboard to analyze education backgrounds, compensation tiers, project benched statuses, and experience levels.
 Analyst: Muhammad Ferdy Irmawan, S.Kom.
 Dataset Source: Kaggle.com
 Primary Tool: Microsoft Excel (Data Cleaning, VLOOKUP Formulas, Pivot Tables, Pivot Charts, Slicers)
@@ -23,12 +23,12 @@ DETAILED PROCESS: DATA PREPARATION, FORMULAS & VLOOKUP INTEGRATION
 1. Data Preparation & Cleaning Process: Focuses on structural cleaning, verifying data types, standardizing naming conventions, handling missing records, and formatting the raw records into official Excel Table structures to maintain data integrity.
 2. Formula Implementation: Utilizes standard aggregation functions and relational lookup expressions across sheets to calculate counts, row totals, and percentage proportions (% of Row Total) for accurate exploratory analysis.
 3. VLOOKUP Enrichment Process: Serves as a dynamic data enrichment mechanism. Instead of manual entry, VLOOKUP queries the master Referensi Vlookup sheet, matches each employee's numerical payment tier code, and automatically populates descriptive business categories (TierCategory) and status metrics into the active data pipeline.
-4. Analytical Distinction: While Data Preparation standardizes and cleans the raw layout, VLOOKUP acts as a relational bridge to translate raw numerical codes into descriptive business groups, empowering advanced multi-dimensional Pivot Table analysis.
+4. Analytical Distinction: While Data Preparation standardizes and cleans the raw layout, VLOOKUP acts as a relational bridge to translate raw numerical codes into descriptive business groups, empowering advanced multi dimensional Pivot Table analysis.
 
 KEY FINDINGS AND BUSINESS INSIGHTS
 1. Different educational backgrounds show distinct vulnerabilities to attrition highlighting the need for tailored career pathways.
 2. Employees within specific payment tiers exhibit higher turnover probabilities confirming the direct relationship between compensation structures and retention rates.
-3. Employees experiencing benched statuses show noticeable shifts in retention risk indicating project under-utilization drives disengagement.
+3. Employees experiencing benched statuses show noticeable shifts in retention risk indicating project under utilization drives disengagement.
 4. Critical attrition drop-off points emerge at specific tenure milestones within the current domain.
 
 STRATEGIC BUSINESS OUTPUT AND RECOMMENDATIONS
