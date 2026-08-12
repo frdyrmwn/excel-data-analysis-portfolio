@@ -1,7 +1,7 @@
 RETAIL SUPPLY CHAIN & PRICING OPTIMIZATION DIAGNOSTIC ANALYSIS
 
 Overview:
-This project delivers an interactive executive retail dashboard and diagnostic analytics solution to solve supply chain imbalances and pricing inefficiencies. By processing raw transaction records, this project builds a structured Excel workbook featuring automated data preparation, multi-dimensional pivot table aggregations, dynamic KPI summary cards, and visual analytics to evaluate product category performance, promotion effectiveness, regional demand levels, and weather driven pricing dynamics.
+This project delivers an interactive executive retail dashboard and diagnostic analytics solution to solve supply chain imbalances and pricing inefficiencies. By processing raw transaction records, this project builds a structured Excel workbook featuring automated data preparation, multi dimensional pivot table aggregations, dynamic KPI summary cards, and visual analytics to evaluate product category performance, promotion effectiveness, regional demand levels, and weather driven pricing dynamics.
 
 Analyst: Muhammad Ferdy Irmawan, S.Kom.
 Dataset Source: Kaggle (Retail Inventory & Sales Dataset)
