@@ -2,8 +2,8 @@ PPIC End to End & Operational Dashboard (Robries Case Study) PT. Siklus Karya Gl
 Author: Muhammad Ferdy Irmawan
 
 Project Overview:
-This repository contains a comprehensive Production Planning and Inventory Control (PPIC) case study simulation based on real-world manufacturing and furniture assembly operations (Robries).
-The project demonstrates an end-to-end operational workflow—starting from Master Data Management, Sales Order processing, Material Requirement Planning (MRP), up to Inventory Scheduling, Production Planning, and Logistics.
+This repository contains a comprehensive Production Planning and Inventory Control (PPIC) case study simulation based on real world manufacturing and furniture assembly operations (Robries).
+The project demonstrates an end to end operational workflow starting from Master Data Management, Sales Order processing, Material Requirement Planning (MRP), up to Inventory Scheduling, Production Planning, and Logistics.
 
 Key Modules & Sheets Included:
 The workbook is structured into several interconnected modules:
@@ -17,7 +17,7 @@ The workbook is structured into several interconnected modules:
 8. Cutting Plan & Material Efficiency: Calculating component surface areas (m2) for raw material cutting optimization.
 
 Skills & Technical Competencies Demonstrated:
-Supply Chain Management: End-to-end visibility from customer demand forecasting to production scheduling and logistics dispatch.
+Supply Chain Management: End to end visibility from customer demand forecasting to production scheduling and logistics dispatch.
 Inventory Control: MRP execution, safety stock calculation, reorder point (ROP) analysis, and shortage identification.
 Operations & Data Modeling: Relational data structuring across multiple sheets within Microsoft Excel, utilizing advanced logic and operational formulas.
 Focus Areas:Data Management, Operations, Inventory, Supply Chain, and Administrative Analytics.
